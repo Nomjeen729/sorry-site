@@ -121,7 +121,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
             repeatDelay: 2,
           }}
         />
-        <span className="relative z-10">Захиаг нь унших...</span>
+        <span className="relative z-10">Хэлэх зүйлийг нь унших...</span>
       </motion.button>
 
       {/* Bottom floating elements */}
