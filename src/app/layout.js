@@ -1,8 +1,8 @@
 import "./globals.css"
 
 export const metadata = {
-  title: "I'm Sorry",
-  description: "A heartfelt apology website",
+  title: "Хайрт минь, уучлаарай",
+  description: "Чин сэтгэлийн захиа",
 }
 
 export default function RootLayout({ children }) {
