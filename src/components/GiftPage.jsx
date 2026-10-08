@@ -195,7 +195,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.3 }}
                       className="text-2xl text-pink-300 leading-relaxed"
                     >
-                      This flower will never wilt...🌹
+                      Энэ цэцэг хэзээ ч гандахгүй...🌹
                     </motion.p>
                     <motion.p
                       initial={{ opacity: 0, y: 15 }}
@@ -203,8 +203,8 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-lg text-purple-200 leading-relaxed"
                     >
-                      Just like my love for you. I promise to cherish you every single day, and never take your
-                      beautiful heart for granted again.💖
+                      Яг л миний чамайг гэх хайр шиг. Би чамайг өдөр бүр хайрлаж, эрхэмлэж, ямар үнэ цэнтэй хүн  
+                      болохыг чинь хэзээ ч мартахгүй гэж амлаж байна.💖
                     </motion.p>
                     <motion.p
                       initial={{ opacity: 0, y: 15 }}
@@ -212,7 +212,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.9 }}
                       className="text-xl text-pink-200"
                     >
-                      You mean everything to me💕✨
+                      -Zay💕✨
                     </motion.p>
                   </motion.div>
                 )}
