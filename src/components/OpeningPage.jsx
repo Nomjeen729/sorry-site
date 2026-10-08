@@ -92,7 +92,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.6 }}
           className="text-purple-200 text-xl leading-relaxed"
         >
-          Миний чин сэтгэлийн захиаг уншаад намайг уучлаач, гуйж байна…
+          Би өөрийгөө үгээр илэрхийлэхдээ муу байж магадгүй ээ, гэхдээ…
         </motion.p>
       </motion.div>
 
