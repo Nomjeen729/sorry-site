@@ -32,7 +32,7 @@ export default function DiaryPage({ setCurrentPage }) {
           transition={{ duration: 1, delay: 0.5 }}
           className="text-center"
         >
-          <h1 className="text-3xl text-pink-300 mb-8 leading-relaxed">My Sorry Letter to You…</h1>
+          <h1 className="text-3xl text-pink-300 mb-8 leading-relaxed">Миний чамд зориулсан захиа…</h1>
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -53,7 +53,7 @@ export default function DiaryPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
           >
             <p className="text-purple-200 text-lg mb-8 leading-relaxed">
-              I've been sitting here for hours, trying to find the right words...
+              Энд хэдэн цаг суучихаад, сэтгэлдээ байгаа бүхнээ хэрхэн зөвөөр илэрхийлэхээ бодсоор л байна. Яг юу гэж хэлбэл чамд хүрэх бол, ямар үг сонговол миний доторх мэдрэмжийг бүрэн илэрхийлж чадах бол гэж.....
             </p>
 
             <motion.button
@@ -65,7 +65,7 @@ export default function DiaryPage({ setCurrentPage }) {
               animate={{ opacity: 1 }}
               transition={{ delay: 2.5 }}
             >
-              Continue reading...
+              Үргэлжлүүлж унших...
             </motion.button>
           </motion.div>
         </motion.div>
